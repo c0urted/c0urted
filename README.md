@@ -18,12 +18,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0urted&theme=synthwave&hide_border=true&color=ff79c6&line=bd93f9&point=ff79c6&background=0d1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0urted&theme=react-dark&hide_border=true&color=bd93f9&line=bd93f9&point=ff79c6&background=0d1117" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-0d1117?style=flat&logo=python&logoColor=bd93f9&color=0d1117" />
   <img src="https://img.shields.io/badge/Language-C-0d1117?style=flat&logo=c&logoColor=ff79c6&color=0d1117" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-0d1117?style=flat&logo=javascript&logoColor=bd93f9&color=0d1117" />
   <img src="https://img.shields.io/badge/Language-PHP-0d1117?style=flat&logo=php&logoColor=bd93f9&color=0d1117" />
   <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-0d1117?style=flat&logo=linux&logoColor=bd93f9&color=0d1117" />
   <img src="https://img.shields.io/badge/Version-Git-0d1117?style=flat&logo=git&logoColor=ff79c6&color=0d1117" />
