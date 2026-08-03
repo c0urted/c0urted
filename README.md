@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <code>- Credentials: 5yoe Larp Uni</code><br>
+  <code>- Credentials: 5yoe Larping</code><br>
   <code>- Environment: Windows, Linux, Custom Android</code><br>
   <code>- Stack: Python, C, HTML/CSS/JS, PHP</code><br>
   <code>- Focus: Networking, DFIR, Systems Tooling, Automation</code>
@@ -25,6 +25,6 @@
   <img src="https://img.shields.io/badge/Language-Python-0d1117?style=flat&logo=python&logoColor=bd93f9&color=0d1117" />
   <img src="https://img.shields.io/badge/Language-C-0d1117?style=flat&logo=c&logoColor=ff79c6&color=0d1117" />
   <img src="https://img.shields.io/badge/Language-PHP-0d1117?style=flat&logo=php&logoColor=bd93f9&color=0d1117" />
-  <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-0d1117?style=flat&logo=linux&logoColor=ff79c6&color=0d1117" />
+  <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-0d1117?style=flat&logo=linux&logoColor=bd93f9&color=0d1117" />
   <img src="https://img.shields.io/badge/Version-Git-0d1117?style=flat&logo=git&logoColor=ff79c6&color=0d1117" />
 </p>
